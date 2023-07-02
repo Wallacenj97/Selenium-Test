@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\Users\ana.silva\Documents\Testes de Software\.metadata\.plugins\org.eclipse.jdt.core
+3026863129.index
+1563301443.index
+3276861771.index
+1865797976.index
+1524767134.index
+3097960812.index
+3950252868.index
+519113319.index
+2424990365.index
+1150722970.index
+1082809112.index
+3396411769.index
+2994306116.index
+1505427436.index
+1745628722.index
+2624715700.index
+3693466898.index
+2286486105.index
+3062462461.index
